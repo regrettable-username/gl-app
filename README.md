@@ -2,6 +2,8 @@
 
 This is a template for a simple imgui based SDL/OpenGL3 application. It is intended to be used as a starting point for new projects. It supports native and wasm builds.
 
+Note: This is just taking out the imgui example for SDL2/GL3 and putting it into a reusable repo for future projects.
+
 ## Building
 
 ## MacOS and Linux Native
